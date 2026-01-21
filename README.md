@@ -1,5 +1,15 @@
-# 💫 About Me:
-👋 Hi, I'm Indhirajith  <br><br>💻 AI/ML & Full-Stack Developer | AI & ML Enthusiast  <br>🤖 Building LLM-powered applications, AI systems, and full-stack solutions  <br>🚀 Passionate about turning ideas into scalable, real-world products  <br>📚 Always learning, always building<br>
+## 👋 About Me
+
+Hi, I'm **Indhirajith** 👨‍💻  
+An **AI/ML & Full-Stack Developer** passionate about building intelligent, scalable, real-world systems.
+
+- 🤖 Building **LLM-powered applications**, AI systems, and full-stack solutions  
+- 🚀 Focused on turning ideas into **production-ready products**  
+- 🧠 Strong interest in **applied AI, research-driven development, and system design**  
+- 📈 Always learning, always building
+
+---
+
 
 
 ## 🌐 Socials:
